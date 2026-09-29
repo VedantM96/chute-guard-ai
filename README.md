@@ -1,4 +1,4 @@
-# ChuteGuard AI 🚧📹
+<img width="1592" height="1057" alt="image" src="https://github.com/user-attachments/assets/185fcc32-43eb-4379-9b59-65ee65d6e4d5" /># ChuteGuard AI 🚧📹
 
 **ChuteGuard AI** is a hardened, real-time Computer Vision module designed to detect structural material buildup and prevent critical choke-points in industrial conveyor chutes.
 
@@ -54,3 +54,12 @@ PLAYBACK_SPEED  = 0.5    # 1.0 = real time, 0.5 = half speed (slow motion)
 MIN_BLOB_AREA_FRAC   = 0.02    # Blobs must cover >= 2% of the ROI area
 MAX_ASPECT_RATIO     = 8.0     # Rejects vertically thin strips (falling material)
 ```
+
+
+https://github.com/user-attachments/assets/ca509c0f-ca87-4a24-86ed-b8aa534fce2f
+
+
+
+
+
+
