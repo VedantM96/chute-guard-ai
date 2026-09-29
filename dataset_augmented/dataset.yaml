@@ -1,0 +1,6 @@
+path: d:/Model/choke-point-detector/dataset_augmented
+train: images/train
+val: images/val
+
+names:
+  0: wall_buildup

@@ -1,0 +1,22 @@
+# Python Virtual Environment
+.venv/
+__pycache__/
+*.pyc
+
+# Model Weights (Too large for GitHub)
+*.pt
+*.onnx
+
+# Datasets and Media (Too large for GitHub)
+*.mp4
+*.avi
+*.jpg
+*.png
+all_images/
+all_labels/
+dataset/
+runs/
+
+# IDE files
+.vscode/
+.idea/
